@@ -13,7 +13,7 @@ const { inspect } = require("util");
 let dev = ["738478465870987425"];
 const cmd = require("node-cmd");
 
-bot.login("")
+bot.login("OTIzMzI4MTA0MzUxNTQ3NDgy.YcOaTg.1x1ousRsKcVzZDdicDlwVpK1SnM")
 global.mongoose = require('mongoose')
 mongoose.connect("", { useNewUrlParser: true, useUnifiedTopology: true }).then(() => {
   console.log("✅ Connected to the database.");
